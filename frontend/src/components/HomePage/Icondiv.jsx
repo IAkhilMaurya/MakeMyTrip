@@ -37,7 +37,7 @@ export const Icondiv = () => {
               style={{ fontSize: 40, padding: 4 }}
             ></HolidayVillageIcon>
           </span>
-          <p>Hoiday packages</p>
+          <p>Holiday packages</p>
         </div>
         <div>
           <span>
